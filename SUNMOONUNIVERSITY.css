@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'SUNMOON UNIVERSITY';
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SUNMOONUNIVERSITY/SUNMOONUNIVERSITY.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/SUNMOONUNIVERSITY/SUNMOONUNIVERSITY.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/SUNMOONUNIVERSITY/SUNMOONUNIVERSITY.ttf') format('truetype');
+  font-family: 'SUNMOON UNIVERSITY';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SUNMOONUNIVERSITY/SUNMOONUNIVERSITY.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/SUNMOONUNIVERSITY/SUNMOONUNIVERSITY.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/SUNMOONUNIVERSITY/SUNMOONUNIVERSITY.ttf') format('truetype');
 }
